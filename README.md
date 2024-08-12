@@ -1,4 +1,4 @@
-[MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s)
 <h1 align="center">Hi 👋, I'm Ankit Chemjong</h1>
 <h3 align="center">A Passionate Full Stack Developer!!!</h3>
 <img align="right" alt="Hi" width="400" src="https://i.pinimg.com/originals/a0/02/a3/a002a3e51a2adc85d6c0a4684892e743.gif">
