@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **npp.rasik@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Advance/Downloads/ANKIT-CHEMJONG-CV.pdf](file:///C:/Users/Advance/Downloads/ANKIT-CHEMJONG-CV.pdf)
+- 📄 Know about my experiences from LinkedIn and Github
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
