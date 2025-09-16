@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitchemjong&label=Profile%20views&color=0e75b6&style=flat" alt="ankitchemjong" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Specialized in **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitChemjong?tab=repositories](https://github.com/AnkitChemjong?tab=repositories)
 
