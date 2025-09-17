@@ -1,31 +1,91 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s)
+
 <h1 align="center">Hi 👋, I'm Ankit Chemjong</h1>
-<h3 align="center">A Passionate Full Stack Developer!!!</h3>
-<img align="right" alt="Hi" width="400" src="https://i.pinimg.com/originals/a0/02/a3/a002a3e51a2adc85d6c0a4684892e743.gif">
+<h3 align="center">A Passionate Full Stack Developer | UI Futurist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitchemjong&label=Profile%20views&color=0e75b6&style=flat" alt="ankitchemjong" /> </p>
+<img align="right" width="280" src="https://i.pinimg.com/originals/a0/02/a3/a002a3e51a2adc85d6c0a4684892e743.gif" />
 
-- 🌱 Specialized in **MERN**
+- 🌱 **Specialized in:** MERN Stack, Full Stack Development, Modern Web Frameworks  
+- 👨‍💻 **Projects:** [GitHub Repositories](https://github.com/AnkitChemjong?tab=repositories)  
+- 💬 **Ask me about:** JavaScript, React, Next.js, Vue, TanStack, Prisma, Clerk Auth  
+- 📫 **Contact:** npp.rasik@gmail.com  
+- 📄 **LinkedIn:** [ankit-chemjong](https://www.linkedin.com/in/ankit-chemjong)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnkitChemjong?tab=repositories](https://github.com/AnkitChemjong?tab=repositories)
+---
 
-- 💬 Ask me about **MERN**
+## Connect with Me
 
-- 📫 How to reach me **npp.rasik@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/ankit-chemjong) 
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&style=for-the-badge)](https://fb.com/rasik-chemjong)  
 
-- 📄 Know about my experiences from LinkedIn and Github
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠 Languages & Frameworks
+
+### Main Language
 <p align="left">
-<a href="https://linkedin.com/in/ankit chemjong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit chemjong" height="30" width="40" /></a>
-<a href="https://fb.com/rasik chemjong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasik chemjong" height="30" width="40" /></a>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Main Technologies
+<p align="left">
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+  <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" style="background:white; padding:5px; border-radius:5px"/>
+  <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"/>
+  <img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitchemjong&show_icons=true&locale=en&layout=compact" alt="ankitchemjong" /></p>
+### Other Languages
+<p align="left">
+  <img alt="ASP.NET" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ogzjtbw9BR2kvN88btLRfK3Ffc9p3dVcNQ&s" width="40" height="40"/>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitchemjong&show_icons=true&locale=en" alt="ankitchemjong" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitchemjong&" alt="ankitchemjong" /></p>
+## 🔧 Tools & Platforms
+
+<p align="left">
+  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  <img alt="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img alt="TanStack Query" src="https://res.cloudinary.com/dw6wav4jg/image/upload/v1717914209/1_elhu-42TzQEdsFjKDbQhhA_gv2meq.png" width="40" height="40"/>
+  <img alt="TanStack Router" src="https://saas-ui.dev/img/frameworks/tanstack.png" width="40" height="40"/>
+  <img alt="Prisma" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="40" height="40" style="background:white; padding:5px; border-radius:5px"/>
+  <img alt="Drizzle" src="https://avatars.githubusercontent.com/u/108468352?s=400&v=4" width="40" height="40"/>
+  <img alt="Clerk Auth" src="https://avatars.githubusercontent.com/u/69536922?s=200&v=4" width="40" height="40"/>
+  <img alt="NextAuth" src="https://next-auth-docs.vercel.app/img/logo/logo-sm.png" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitchemjong&show_icons=true&theme=radical&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchemjong&layout=compact&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitchemjong&theme=radical" width="49%" />
+</p>
+
+---
+
+## 🌌 Future Goals
+
+- Build more **full-stack applications**  
+- Explore **AI integration** in web apps  
+- Create **futuristic UI/UX dashboards**  
+- Contribute to **open-source projects**  
+
+---
+
+*Made with 💜 using futuristic vibes and modern web technologies*
