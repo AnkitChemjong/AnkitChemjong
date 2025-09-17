@@ -9,7 +9,7 @@
 - 👨‍💻 **Projects:** [GitHub Repositories](https://github.com/AnkitChemjong?tab=repositories)  
 - 💬 **Ask me about:** JavaScript, React, Next.js, Vue, TanStack, Prisma, Clerk Auth  
 - 📫 **Contact:** npp.rasik@gmail.com  
-- 📄 **LinkedIn:** [ankit-chemjong](https://www.linkedin.com/in/ankit-chemjong)  
+- 📄 **LinkedIn:** [ankit-chemjong](https://www.linkedin.com/in/ankit-chemzong-a8b224307/)  
 
 ---
 
